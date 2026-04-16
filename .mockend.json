@@ -1,7 +1,7 @@
 {
   "User": {
-    "id": "int",
-    "name": "string",
-    "isStudent": "boolean"
+    "id": "1",
+    "name": "Berliano Putra",
+    "isStudent": "Yes"
   }
 }
